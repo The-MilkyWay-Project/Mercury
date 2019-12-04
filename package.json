@@ -2,7 +2,7 @@
 	"browserslist": [
 		"defaults"
 	],
-	"description": "TODO",
+	"description": "Mercury",
 	"devDependencies": {
 		"@babel/core": "7.7.4",
 		"@babel/plugin-syntax-dynamic-import": "7.7.4",
@@ -60,8 +60,8 @@
 	},
 	"main": "dist/index.min.js",
 	"module": "dist/index.min.mjs",
-	"name": "TODO",
-	"repository": "TODO",
+	"name": "milkyway-mercury",
+	"version": "0.0.1",
 	"scripts": {
 		"build": "rollup -c",
 		"dev": "rollup -c -w",
