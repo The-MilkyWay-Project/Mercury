@@ -1,4 +1,0 @@
-[submodule "Mercury-Core"]
-	path = Mercury-Core
-	url = git@github.com:JoshDanielWalker/Mercury-Core.git
-	branch = master
